@@ -1,8 +1,0 @@
-[build-system]
-requires = [
-	"python-dotenv",
-	"flask",
-	"mysql-connector",
-	"mysql-connector-python"
-]
-build-backend = "setuptools.build_meta"

@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+src/mypydb/__init__.py
+src/mypydb/mypydb.py
+src/mypydb_gurgy11.egg-info/PKG-INFO
+src/mypydb_gurgy11.egg-info/SOURCES.txt
+src/mypydb_gurgy11.egg-info/dependency_links.txt
+src/mypydb_gurgy11.egg-info/top_level.txt

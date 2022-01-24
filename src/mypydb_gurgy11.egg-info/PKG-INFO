@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: mypydb-gurgy11
+Version: 0.0.1
+Summary: A small package to help manage a MySQL database.
+Home-page: https://github.com/gurgy11/MyPyDb
+Author: Gregory Bockus
+Author-email: gregory.bockus@gmail.com
+License: GNU General Public
+Project-URL: Bug Tracker, https://github.com/gurgy11/MyPyDb/issuess
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# MyPyDb
+
+
+
+A simple database manager Use it to
+
+[Github-flavored Markdown(https://guides.github.com/features/mastering-markdown/)
+
+create databases, create, update, and delete tables and their records.
+
+
